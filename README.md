@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/card.png" alt="Teoh Jun Hong — player card" width="300">
+<img src="assets/card.png?v=2" alt="Teoh Jun Hong — player card" width="300">
 
 # Hi, I'm Teoh Jun Hong 👋
 
