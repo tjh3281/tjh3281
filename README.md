@@ -1,6 +1,26 @@
-<div align="center">
-
+<table align="center">
+<tr>
+<td width="330" align="center" valign="middle">
 <img src="assets/card.png?v=2" alt="Teoh Jun Hong — player card" width="300">
+</td>
+<td valign="middle">
+
+**Card key** — what the six stats mean:
+
+`JAV` &nbsp;Java — core language<br>
+`PRB` &nbsp;Problem-solving · data structures & algorithms<br>
+`WEB` &nbsp;HTML · CSS · JavaScript<br>
+`PYT` &nbsp;Python<br>
+`NET` &nbsp;IoT · networks · hardware<br>
+`GRT` &nbsp;Grit — commits, consistency, follow-through<br>
+
+<sub>`OVR 83` overall &nbsp;·&nbsp; `DEV` position</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 # Hi, I'm Teoh Jun Hong 👋
 
@@ -10,7 +30,7 @@
 
 ![Malaysia](https://img.shields.io/badge/📍_Malaysia-262B33?style=flat-square)
 ![University](https://img.shields.io/badge/🎓_Universiti_Malaya-262B33?style=flat-square)
-![Focus](https://img.shields.io/badge/focus-web_%26_IT_support-39D353?style=flat-square&labelColor=262B33)
+![Focus](https://img.shields.io/badge/🎯_long--term-AI_automation_%26_cybersecurity-39D353?style=flat-square&labelColor=262B33)
 
 </div>
 
@@ -20,6 +40,7 @@
 
 - 🎓 &nbsp;**Computer Science (Computer System & Network)** at **Universiti Malaya** — graduating 2029
 - 🌱 &nbsp;Right now I'm on a **15-day web-skills sprint** → [Sophic-prep](https://github.com/tjh3281/Sophic-prep)
+- 🎯 &nbsp;Long-term focus: **AI automation & cybersecurity**
 - 🧠 &nbsp;Comfortable with **Java** (data structures, OOP) and some **Python**
 - ⚙️ &nbsp;Ask me about **IoT, networks & hardware** — that's my background
 - 📫 &nbsp;Reach me at **tjh3281@gmail.com**
