@@ -5,7 +5,6 @@
 </td>
 <td valign="middle">
 
-**Card key** — what the six stats mean:
 
 `JAV` &nbsp;Java — core language<br>
 `PRB` &nbsp;Problem-solving · data structures & algorithms<br>
