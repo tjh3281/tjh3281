@@ -1,32 +1,18 @@
-<table align="center">
-<tr>
-<td width="330" align="center" valign="middle">
-<img src="assets/card.png?v=2" alt="Teoh Jun Hong — player card" width="300">
-</td>
-<td valign="middle">
-
-
-`JAV` &nbsp;Java — core language<br>
-`PRB` &nbsp;Problem-solving · data structures & algorithms<br>
-`WEB` &nbsp;HTML · CSS · JavaScript<br>
-`PYT` &nbsp;Python<br>
-`NET` &nbsp;IoT · networks · hardware<br>
-`GRT` &nbsp;Grit — commits, consistency, follow-through<br>
-
-<sub>`OVR 83` overall &nbsp;·&nbsp; `DEV` position</sub>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
+
+<!-- Grown daily from my contribution calendar by .github/workflows/garden.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tjh3281/tjh3281/output/garden-dark.svg">
+  <img src="https://raw.githubusercontent.com/tjh3281/tjh3281/output/garden-light.svg" alt="My GitHub contributions grown as a garden: every day I contribute plants a sprout, a flower or a tree" width="100%">
+</picture>
 
 # Hi, I'm Teoh Jun Hong 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=680&height=42&lines=Java+%26+Python%2C+now+learning+the+web;Building+real+projects%2C+one+commit+at+a+time;IT+Support+intern+in+the+making" alt="Java & Python, now learning the web · Building real projects, one commit at a time · IT Support intern in the making">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=680&height=42&lines=3x+Hackathon+Winner;Java+%26+Python%2C+now+learning+the+web;Building+real+projects%2C+one+commit+at+a+time;IT+Support+intern+in+the+making" alt="3x Hackathon Winner · Java & Python, now learning the web · Building real projects, one commit at a time · IT Support intern in the making">
 
 <br/>
 
+![Hackathons](https://img.shields.io/badge/🏆_3x_Hackathon_Winner-FFB703?style=flat-square&labelColor=262B33)
 ![Malaysia](https://img.shields.io/badge/📍_Malaysia-262B33?style=flat-square)
 ![University](https://img.shields.io/badge/🎓_Universiti_Malaya-262B33?style=flat-square)
 ![Focus](https://img.shields.io/badge/🎯_long--term-AI_automation_%26_cybersecurity-39D353?style=flat-square&labelColor=262B33)
@@ -38,6 +24,7 @@
 ## 🧭 &nbsp;About
 
 - 🎓 &nbsp;**Computer Science (Computer System & Network)** at **Universiti Malaya** — graduating 2029
+- 🏆 &nbsp;**3x Hackathon Winner**
 - 🌱 &nbsp;Right now I'm on a **15-day web-skills sprint** → [Sophic-prep](https://github.com/tjh3281/Sophic-prep)
 - 🎯 &nbsp;Long-term focus: **AI automation & cybersecurity**
 - 🧠 &nbsp;Comfortable with **Java** (data structures, OOP) and some **Python**

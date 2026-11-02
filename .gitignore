@@ -1,1 +1,3 @@
 ﻿assets/um-logo-raw.png
+dist/
+.playwright-mcp/
