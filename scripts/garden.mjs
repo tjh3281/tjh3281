@@ -369,7 +369,7 @@ function render({ total, days }, mode) {
 ${sky}
 ${hills}
 <rect y="${bedTop + 20}" width="${W}" height="${H - bedTop - 20}" fill="url(#meadow)"/>
-<text x="28" y="40" class="t h">${USER}'s garden</text>
+<text x="28" y="40" class="t h">My Garden</text>
 <text x="28" y="60" class="t sub">every contribution plants something Â· last 12 months</text>
 ${fence}
 ${bed}

@@ -25,7 +25,6 @@
 
 - 🎓 &nbsp;**Computer Science (Computer System & Network)** at **Universiti Malaya** — graduating 2029
 - 🏆 &nbsp;**3x Hackathon Winner**
-- 🌱 &nbsp;Right now I'm on a **15-day web-skills sprint** → [Sophic-prep](https://github.com/tjh3281/Sophic-prep)
 - 🎯 &nbsp;Long-term focus: **AI automation & cybersecurity**
 - 🧠 &nbsp;Comfortable with **Java** (data structures, OOP) and some **Python**
 - ⚙️ &nbsp;Ask me about **IoT, networks & hardware** — that's my background
